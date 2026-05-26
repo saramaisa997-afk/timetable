@@ -15,6 +15,6 @@ A clean, responsive frontend web application designed to help create, manage, an
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/saramaisa997-afk/timetable.git
    ```
 2. Open `timetable.html` directly in your web browser.
