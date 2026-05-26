@@ -17,4 +17,4 @@ A clean, responsive frontend web application designed to help create, manage, an
    ```bash
    git clone https://github.com/saramaisa997-afk/timetable.git
    ```
-2. Open `timetable.html` directly in your web browser.
+2. Open `index.html` directly in your web browser.
